@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kiwipeach的博客空间</title>
+  
+  <subtitle>子标题测试</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://localhost:4000/"/>
+  <updated>2018-04-03T22:50:44.140Z</updated>
+  <id>http://localhost:4000/</id>
+  
+  <author>
+    <name>卜铷</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>测试文章</title>
+    <link href="http://localhost:4000/2053794651/"/>
+    <id>http://localhost:4000/2053794651/</id>
+    <published>2018-04-03T17:44:23.000Z</published>
+    <updated>2018-04-03T22:50:44.140Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="测试内容xx"><a href="#测试内容xx" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-1"><a href="#测试内容xx-1" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-2"><a href="#测试内容xx-2" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-3"><a href="#测试内容xx-3" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><a id="more"></a><h3 id="测试内容xx-4"><a href="#测试内容xx-4" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-5"><a href="#测试内容xx-5" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-6"><a href="#测试内容xx-6" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-7"><a href="#测试内容xx-7" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-8"><a href="#测试内容xx-8" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-9"><a href="#测试内容xx-9" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-10"><a href="#测试内容xx-10" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-11"><a href="#测试内容xx-11" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-12"><a href="#测试内容xx-12" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-13"><a href="#测试内容xx-13" class="headerlink" title="测试内容xx"></a>测试内容xx</h3><h3 id="测试内容xx-14"><a href="#测试内容xx-14" class="headerlink" title="测试内容xx"></a>测试内容xx</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;测试内容xx&quot;&gt;&lt;a href=&quot;#测试内容xx&quot; class=&quot;headerlink&quot; title=&quot;测试内容xx&quot;&gt;&lt;/a&gt;测试内容xx&lt;/h3&gt;&lt;h3 id=&quot;测试内容xx-1&quot;&gt;&lt;a href=&quot;#测试内容xx-1&quot; class=&quot;headerlink&quot; title=&quot;测试内容xx&quot;&gt;&lt;/a&gt;测试内容xx&lt;/h3&gt;&lt;h3 id=&quot;测试内容xx-2&quot;&gt;&lt;a href=&quot;#测试内容xx-2&quot; class=&quot;headerlink&quot; title=&quot;测试内容xx&quot;&gt;&lt;/a&gt;测试内容xx&lt;/h3&gt;&lt;h3 id=&quot;测试内容xx-3&quot;&gt;&lt;a href=&quot;#测试内容xx-3&quot; class=&quot;headerlink&quot; title=&quot;测试内容xx&quot;&gt;&lt;/a&gt;测试内容xx&lt;/h3&gt;
+    
+    </summary>
+    
+    
+      <category term="测试" scheme="http://localhost:4000/tags/%E6%B5%8B%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>测试文章1</title>
+    <link href="http://localhost:4000/135806262/"/>
+    <id>http://localhost:4000/135806262/</id>
+    <published>2018-04-03T16:59:12.000Z</published>
+    <updated>2018-04-06T12:05:57.774Z</updated>
+    
+    <content type="html"><![CDATA[<h3 id="测试内容11"><a href="#测试内容11" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-1"><a href="#测试内容11-1" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-2"><a href="#测试内容11-2" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容………"><a href="#测试内容………" class="headerlink" title="测试内容………."></a>测试内容……….</h3><a id="more"></a><h3 id="测试内容11-3"><a href="#测试内容11-3" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-4"><a href="#测试内容11-4" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-5"><a href="#测试内容11-5" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-6"><a href="#测试内容11-6" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-7"><a href="#测试内容11-7" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-8"><a href="#测试内容11-8" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-9"><a href="#测试内容11-9" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-10"><a href="#测试内容11-10" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-11"><a href="#测试内容11-11" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-12"><a href="#测试内容11-12" class="headerlink" title="测试内容11"></a>测试内容11</h3><h3 id="测试内容11-13"><a href="#测试内容11-13" class="headerlink" title="测试内容11"></a>测试内容11</h3>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h3 id=&quot;测试内容11&quot;&gt;&lt;a href=&quot;#测试内容11&quot; class=&quot;headerlink&quot; title=&quot;测试内容11&quot;&gt;&lt;/a&gt;测试内容11&lt;/h3&gt;&lt;h3 id=&quot;测试内容11-1&quot;&gt;&lt;a href=&quot;#测试内容11-1&quot; class=&quot;headerlink&quot; title=&quot;测试内容11&quot;&gt;&lt;/a&gt;测试内容11&lt;/h3&gt;&lt;h3 id=&quot;测试内容11-2&quot;&gt;&lt;a href=&quot;#测试内容11-2&quot; class=&quot;headerlink&quot; title=&quot;测试内容11&quot;&gt;&lt;/a&gt;测试内容11&lt;/h3&gt;&lt;h3 id=&quot;测试内容………&quot;&gt;&lt;a href=&quot;#测试内容………&quot; class=&quot;headerlink&quot; title=&quot;测试内容……….&quot;&gt;&lt;/a&gt;测试内容……….&lt;/h3&gt;
+    
+    </summary>
+    
+    
+      <category term="生活 Java" scheme="http://localhost:4000/tags/%E7%94%9F%E6%B4%BB-Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>qq三方登陆demo</title>
+    <link href="http://localhost:4000/2265958237/"/>
+    <id>http://localhost:4000/2265958237/</id>
+    <published>2018-04-01T18:58:00.000Z</published>
+    <updated>2018-04-05T14:32:06.084Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="QQ-Login-Demo"><a href="#QQ-Login-Demo" class="headerlink" title="QQ_Login_Demo"></a>QQ_Login_Demo</h1><h2 id="qq-sdk登陆改造主要内容"><a href="#qq-sdk登陆改造主要内容" class="headerlink" title="qq sdk登陆改造主要内容"></a>qq sdk登陆改造主要内容</h2><p> &nbsp;&nbsp;&nbsp;&nbsp;由于官方提供的是比较老板的项目（2012年eclipse项目demo），由于个人使用的<br> 开发工具为IDEA，所以希望整体的项目代码结构调整为maven结构，方便各种开发工具直接导入使用。</p><a id="more"></a><h2 id="首先来了解一下auth2原理登陆"><a href="#首先来了解一下auth2原理登陆" class="headerlink" title="首先来了解一下auth2原理登陆"></a>首先来了解一下auth2原理登陆</h2><p><img src="https://gitee.com/uploads/images/2018/0330/160025_9a0663db_1387578.png" alt="输入图片说明" title="屏幕截图.png"></p><p> <em><strong>主要调整内容有如下</strong></em></p><ul><li><p>将sdk4j.jar包打包到本地仓库</p><blockquote><p>mvn install:install-file -DgroupId=cn.kiwipeach -DartifactId=qq-sdk4j -Dversion=1.0.0 -Dpackaging=jar -Dfile=Sdk4J.jar</p></blockquote></li><li><p>添加项目依赖</p><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>cn.kiwipeach<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>qq-sdk4j<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>$&#123;qq.sdk4j.version&#125;<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>javax.servlet<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>javax.servlet-api<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>$&#123;servlet.version&#125;<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">scope</span>&gt;</span>provided<span class="tag">&lt;/<span class="name">scope</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>taglibs<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>standard<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>$&#123;tglib.version&#125;<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>javax.servlet<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>jstl<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line">    <span class="tag">&lt;<span class="name">version</span>&gt;</span>$&#123;jstl.version&#125;<span class="tag">&lt;/<span class="name">version</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure></li></ul><ul><li>将官方案例改造后的目录结构</li></ul><p><img src="https://gitee.com/uploads/images/2018/0331/114544_f100fe0c_1387578.png" alt="输入图片说明" title="屏幕截图.png"></p><ul><li><p>官网案例运行截图<br><img src="https://gitee.com/uploads/images/2018/0330/155646_b3bda2bc_1387578.png" alt="输入图片说明" title="屏幕截图.png"></p></li><li><p>改造后运行demo图</p></li></ul><p><img src="https://gitee.com/uploads/images/2018/0331/114630_4eb46ab0_1387578.gif" alt="输入图片说明" title="QQ登录demo演示.gif"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h1 id=&quot;QQ-Login-Demo&quot;&gt;&lt;a href=&quot;#QQ-Login-Demo&quot; class=&quot;headerlink&quot; title=&quot;QQ_Login_Demo&quot;&gt;&lt;/a&gt;QQ_Login_Demo&lt;/h1&gt;&lt;h2 id=&quot;qq-sdk登陆改造主要内容&quot;&gt;&lt;a href=&quot;#qq-sdk登陆改造主要内容&quot; class=&quot;headerlink&quot; title=&quot;qq sdk登陆改造主要内容&quot;&gt;&lt;/a&gt;qq sdk登陆改造主要内容&lt;/h2&gt;&lt;p&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;由于官方提供的是比较老板的项目（2012年eclipse项目demo），由于个人使用的&lt;br&gt; 开发工具为IDEA，所以希望整体的项目代码结构调整为maven结构，方便各种开发工具直接导入使用。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="QQ" scheme="http://localhost:4000/tags/QQ/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World kiwipeach</title>
+    <link href="http://localhost:4000/77e7d84b/"/>
+    <id>http://localhost:4000/77e7d84b/</id>
+    <published>2016-08-25T10:27:59.000Z</published>
+    <updated>2018-04-06T09:28:01.838Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><a id="more"></a><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+    
+    </summary>
+    
+      <category term="博客类目" scheme="http://localhost:4000/categories/%E5%8D%9A%E5%AE%A2%E7%B1%BB%E7%9B%AE/"/>
+    
+    
+      <category term="博客开发" scheme="http://localhost:4000/tags/%E5%8D%9A%E5%AE%A2%E5%BC%80%E5%8F%91/"/>
+    
+      <category term="Hexo-Blog" scheme="http://localhost:4000/tags/Hexo-Blog/"/>
+    
+  </entry>
+  
+</feed>
